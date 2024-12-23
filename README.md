@@ -1,0 +1,1 @@
+This is an artificial intelligence model project, training on data about whether a person is drowning or not, through readings from sensors. The data on which the model was trained is the model designtree and neuralNetwork model.
